@@ -1,4 +1,4 @@
-copyright notice changed from master branch
+copyright notice changed
 
 test quick start demo
 
@@ -17,7 +17,5 @@ new branch is this simple branch
 agarwal.alpi@gmail.com
 
 adding from last branch
-
-adding from checkgitstatus
 
 This comes from master branch
