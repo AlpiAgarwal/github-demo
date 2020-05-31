@@ -11,3 +11,5 @@ Demo repository
 This text is in stage modifed again
 
 This test is in working directory again
+
+copyright notice here as well
