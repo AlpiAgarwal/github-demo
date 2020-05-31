@@ -8,4 +8,6 @@ this is to make people understand
 This is text for deployment
 Demo repository 
 
-This text is in stage
+This text is in stage modifed again
+
+This test is in working directory again
