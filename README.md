@@ -21,3 +21,4 @@ changing from master branch
 changes from master again
 
 adding from master while working on featurebranch
+adding from myfeature branch
